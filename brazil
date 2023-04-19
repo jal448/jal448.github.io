@@ -11,6 +11,7 @@
     </header>
 
     <nav>
+        
         <ul>
             <li><a href="peopleandsociety"></a></li>
             <li><a href="environment"></a></li>
@@ -27,7 +28,6 @@
     <main>
         <section id="peopleandsociety">
         <h2><a href="https://www.cia.gov/the-world-factbook/countries/brazil/#people-and-society">People and Society</a></h2>
-   
 
 
     <img src="brazil-images/brazil-image.jpg" alt="Brazil Map" title="Brazil Map"> 
