@@ -50,8 +50,7 @@ main{
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas:
     "intro intro intro"
-    "peopleandsociety peopleandsociety peopleandsociety"
-    "environment environment communication"
+    "people environment communication"
 }
 
 section{
@@ -81,8 +80,8 @@ nav ul{
     justify-content: space-around;
 }
 
-#peopleandsociety{
-    grid-area: peopleandsociety;
+#people{
+    grid-area: people;
 }
 
 #environment{
