@@ -48,10 +48,11 @@ main{
     max-width: 960px;
     grid-area: main;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-template-areas:
-    "intro intro intro"
-    "people environment communication"
+    "intro intro"
+    "people environment"
+    "communication communication";
    
 }
 
