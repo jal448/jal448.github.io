@@ -95,3 +95,19 @@ nav ul{
     grid-area: intro;
 }
 
+h2,h3{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
+
+div.box{
+    text-align: center;
+}
+
+div.row{
+    display: flex;
+}
