@@ -47,10 +47,11 @@ main{
     margin: 0 auto;
     max-width: 960px;
     grid-area: main;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-template-areas:
-    "intro intro intro"
-    "people environment communication"
+    "intro intro"
+    "people environment"
+    "communication communication"
 }
 
 section{
