@@ -115,3 +115,19 @@ div.box{
 div.row{
     display: flex;
 }
+
+a:link {
+    color: rgb(255,255,255);
+}
+
+a:visited{
+    color:rgb(222,49,99);
+}
+
+a:hover{
+    color: rgb(257,255,20);
+}
+
+a:active{
+    color: rgb(0,0,0)
+}
