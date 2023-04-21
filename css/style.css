@@ -17,8 +17,8 @@ body {
 }
 
 header {
-    outline: 2px solid;
-    outline-color: black;
+    outline: 4px solid;
+    outline-color: white;
     max-width: 960px;
     grid-area: header;
     align-content:  start;
@@ -27,3 +27,25 @@ header {
     text-align: center;
     background-color: rgb(25,174,71);
 }
+
+nav{
+    background-color:  rgb(25,174,71);
+    outline: 4px solid;
+    outline-color: white;
+    max-width: 960px;
+    text-align: center;
+    width: 100%;
+    position: sticky;
+    top: 0px;
+    grid-area: nav;
+    height: auto;
+    margin: 0 auto;
+}
+
+nav ul{
+    max-width: 960px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
