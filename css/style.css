@@ -50,7 +50,8 @@ main{
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas:
     "intro intro intro"
-    "peopleandsociety environment communication"
+    "peopleandsociety peopleandsociety peopleandsociety"
+    "environment environment communication"
 }
 
 section{
