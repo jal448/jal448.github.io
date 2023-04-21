@@ -2,7 +2,7 @@
 
 body {
     max-width: 960px;
-    font-family: "Lato", "Montserrat", "Verdana" "arial" , "sans-serif";
+    font-family: "Lato", "Montserrat", "Verdana", "arial" , "sans-serif";
     background-position: center;
     margin: 0 auto;
     display: grid;
