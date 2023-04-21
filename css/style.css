@@ -52,6 +52,26 @@ main{
     "peopleandsociety environment communication";
 }
 
+section{
+    background-color: rgb(1,33,105);
+    max-width: 960px;
+    outline: 4px solid;
+    outline-color: white;
+    height: auto;
+    padding: 25px;
+}
+
+footer{
+    outline: 4px solid;
+    outline-color: white;
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    grid-area: footer;
+    text-align: center;
+    background-color:rgb(25,174,71) ;
+}
+
 nav ul{
     max-width: 960px;
     display: flex;
