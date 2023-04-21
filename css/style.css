@@ -13,6 +13,7 @@ body {
     "main main"
     "footer footer";
     background-color: rgb(255,223,0);
+    color:white;
 
 }
 
@@ -95,7 +96,7 @@ nav ul{
     grid-area: intro;
 }
 
-h2,h3{
+h2{
     text-align: center;
 }
 
