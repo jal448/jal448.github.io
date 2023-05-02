@@ -12,7 +12,7 @@ body {
     "nav nav"
     "main main"
     "footer footer";
-    background-color: rgb(248, 200, 220);
+    background-color: rgb(266,207,196);
     color:white;
 }
 
@@ -58,7 +58,7 @@ main{
 }
 
 section{
-    background-color: rgb(167, 199, 231);
+    background-color: rgb(102,51,0);
     max-width: 960px;
     outline: 4px solid;
     outline-color: white;
