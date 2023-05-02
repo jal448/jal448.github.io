@@ -55,7 +55,8 @@ main{
     "volleyball volleyball"
     "background background"
     "introduction introduction"
-    "education education";
+    "education education"
+    "experience experience";
    
 }
 
@@ -86,16 +87,28 @@ nav ul{
     justify-content: space-around;
 }
 
-#people{
-    grid-area: people;
+#funfacts{
+    grid-area: funfacts;
 }
 
-#environment{
-    grid-area: environment;
+#volleyball{
+    grid-area: volleyball;
 }
 
-#communication{
-    grid-area: communication;
+#mybackground{
+    grid-area: mybackground;
+}
+
+#introduction{
+    grid-area: introduction;
+}
+
+#experience{
+    grid-area: experience;
+}
+
+#education{
+    grid-area: education;
 }
 
 #intro{
