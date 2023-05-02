@@ -51,8 +51,12 @@ main{
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
     "intro intro"
-    "people environment"
-    "communication communication";
+    "funfacts funfacts"
+    "volleyball volleyball"
+    "background background"
+    "introduction introduction"
+    "education education"
+    "experience experience";
    
 }
 
