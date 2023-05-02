@@ -54,7 +54,8 @@ main{
     "introduction funfacts"
     "volleyball mybackground"
     "education education"
-    "experience experience";
+    "experience experience"
+    "interests interests";
    
 }
 
@@ -111,6 +112,10 @@ nav ul{
 
 #intro{
     grid-area: intro;
+}
+
+#interests{
+    grid-area: interests;
 }
 
 h2{
