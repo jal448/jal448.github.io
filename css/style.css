@@ -51,10 +51,10 @@ main{
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
     "intro intro"
+    "introduction introduction"
     "funfacts funfacts"
     "volleyball volleyball"
     "mybackground mybackground"
-    "introduction introduction"
     "education education"
     "experience experience";
    
