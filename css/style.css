@@ -14,10 +14,9 @@ body {
     "footer footer";
     background-color: rgb(255,223,0);
     color:white;
-
 }
 
-header {
+header{
     outline: 4px solid;
     outline-color: white;
     max-width: 960px;
@@ -56,7 +55,6 @@ main{
     "education education"
     "experience experience"
     "interests interests";
-   
 }
 
 section{
