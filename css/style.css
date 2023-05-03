@@ -121,6 +121,10 @@ nav ul{
     grid-area: interests;
 }
 
+#h1{
+    position: center;
+}
+
 div.box{
     text-align: center;
 }
