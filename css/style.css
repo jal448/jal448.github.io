@@ -121,8 +121,9 @@ nav ul{
     grid-area: interests;
 }
 
-#h1{
-    position: center;
+img{
+    width: 50%;
+    height: 50%;
 }
 
 div.box{
