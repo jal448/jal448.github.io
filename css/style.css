@@ -34,7 +34,6 @@ nav{
     outline-color: white;
     max-width: 960px;
     text-align: center;
-    width: 100%;
     position: sticky;
     top: 0px;
     grid-area: nav;
@@ -128,7 +127,6 @@ img{
 
 div.box{
     text-align: center;
-    max-width: 960px;
 }
 
 div.row{
