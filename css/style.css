@@ -64,7 +64,6 @@ section{
     outline-color: white;
     height: auto;
     padding: 25px;
-    width: 100%;
 }
 
 footer{
@@ -139,7 +138,7 @@ a:link {
 }
 
 a:visited{
-    color:rgb(222,49,99);
+    color:rgb(10,52,99);
 }
 
 a:hover{
