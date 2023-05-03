@@ -43,7 +43,7 @@ nav{
 }
 
 main{
-    margin: auto;
+    margin: 0 auto;
     max-width: 960px;
     width: 100%;
     grid-area: main;
@@ -65,9 +65,7 @@ section{
     outline-color: white;
     height: auto;
     padding: 25px;
-    display: grid;
-    grid-template-rows: auto;
-    margin: 4px 0 0 ;
+   
 }
 
 footer{
@@ -90,18 +88,30 @@ nav ul{
 
 #funfacts{
     grid-area: funfacts;
+    display: grid;
+    grid-template-rows: auto;
+    margin: 4px 0 0;
 }
 
 #volleyball{
     grid-area: volleyball;
+    display: grid;
+    grid-template-rows: auto;
+    margin: 4px 0 0;
 }
 
 #mybackground{
     grid-area: mybackground;
+    display: grid;
+    grid-template-rows: auto;
+    margin: 4px 0 0;
 }
 
 #introduction{
     grid-area: introduction;
+    display: grid;
+    grid-template-rows: auto;
+    margin: 4px 0 0;
 }
 
 #experience{
@@ -114,7 +124,6 @@ nav ul{
 
 #intro{
     grid-area: intro;
-    max-width: 960px;
 }
 
 #interests{
