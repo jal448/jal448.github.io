@@ -63,6 +63,8 @@ section{
     outline: 4px solid;
     outline-color: white;
     height: auto;
+    padding: 25px;
+    width: 100%;
 }
 
 footer{
