@@ -110,6 +110,7 @@ nav ul{
 
 #intro{
     grid-area: intro;
+    max-width: fit-content;
 }
 
 #interests{
