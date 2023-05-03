@@ -12,7 +12,7 @@ body {
     "nav nav"
     "main main"
     "footer footer";
-    background-color: rgb(266,207,196);
+    background-color: rgb(226,207,196);
     color:white;
 }
 
@@ -25,11 +25,11 @@ header{
     justify-content: start;
     height: auto;
     text-align: center;
-    background-color: rgb(177,156,217);
+    background-color: rgb(203,109,81);
 }
 
 nav{
-    background-color: rgb(177,156,217);
+    background-color: rgb(203,109,81);
     outline: 4px solid;
     outline-color: white;
     max-width: 960px;
@@ -74,7 +74,7 @@ footer{
     margin: 0 auto;
     grid-area: footer;
     text-align: center;
-    background-color:rgb(177,156,217) ;
+    background-color:rgb(203,109,81) ;
 }
 
 nav ul{
